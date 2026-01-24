@@ -125,7 +125,7 @@ int main() {
 	triangle t10 = { { windowWidth * 18.56f ,windowHeight * 0.85f },
 			{ windowWidth * 18.52f ,windowHeight * 1.0f },
 			{ windowWidth * 18.60f ,windowHeight * 1.0f } };
-
+`
 	triangle t11 = { { windowWidth * 18.64f ,windowHeight * 0.85f },
 			{ windowWidth * 18.60f ,windowHeight * 1.0f },
 			{ windowWidth * 18.68f ,windowHeight * 1.0f } };
